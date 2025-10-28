@@ -1,2 +1,2 @@
 # CNN_Gesture-master-
-.自己在大学期间第一个尝试的CNN项目，开启了自己走向深度学习的第一步，来源于github，带给了自己对该领域的兴趣，一直在笔记本里存储着，最终还是决定进行上传到自己的仓库中，欢迎大家进行下载和提出宝贵建议，在此十分感谢对此做出宝贵建议的你们！！
+The first CNN project I attempted during my university years marked my first step into deep learning. It originated from GitHub and sparked my interest in this field. I have always kept it stored on my notebook, but eventually decided to upload it to my own repository. Everyone is welcome to download it and offer valuable suggestions. I sincerely thank those who provide their precious advice.
